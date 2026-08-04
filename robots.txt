@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuxiahen.github.io/zaixianbofaa/sitemap.xml
